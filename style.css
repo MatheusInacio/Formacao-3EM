@@ -1,9 +1,9 @@
 * {
-    font-family: 'Inter', sans-serif;
+    font-family: 'Noto Sans', sans-serif;
 }
 
 header {
-    background-color: rgb(41, 49, 59);
+    background-color: #2a303c;
     color: #fff;
 }
 
@@ -20,7 +20,7 @@ header {
 }
 
 header img {
-    height: 50px;
+    height: 30px;
     padding: 5px;
 }
 
